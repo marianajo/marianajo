@@ -2,24 +2,6 @@
 
 My name is Mariana Jó.
 - 💼 I currently work as an Engineering Manager in the Data Engineering field.
-- 🔭 I'm also a graduate student at the University of Sao Paulo in the Computer Science Department. I'm part of the Computer Music Research Group, and my research is in MIR, Music Structure Analysis.
-- 🌱 I'm currently learning all about MIR, data engineering, management and productivity tools
-- 👯 I’m looking for help with MIR, in general
-- 💬 Ask me about data engineering, data architecture, management
-- 📫 How to reach me: don't. Just kidding. Maybe twitter is still the best place @paperflower
+- AI, agentic workflows, harness engineering, vector search.
+- 💬 Ask me about data engineering, data architecture, team management
 - 😄 Pronouns: she/her
-
-<!--
-**marianajo/marianajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
